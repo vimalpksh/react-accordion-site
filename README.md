@@ -1,20 +1,31 @@
-#### Idea
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+# Accordion Setup
 
-![](./idea.png);
+Created a accordion site using React JS and CSS.
 
-#### React Icons
 
-[react icons](https://react-icons.github.io/react-icons/)
 
-```
-npm install react-icons --save
-```
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+
+
+## Features
+
+- The site basically contains set of question, which upon clicked expands to porvide the answer.
+
+- The expand button also changes the pattern when clicked on it. 
+
+
+
+## Tech Stack
+
+**Client:** React JS, CSS 
+
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/MZBT4jL/dfvdfvdv.png)
+
+## Live
+
+https://accordion-react-site.netlify.app/
